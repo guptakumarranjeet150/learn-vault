@@ -32,8 +32,6 @@ pnpm-debug.log*
 lerna-debug.log*
 
 # environment variables
-.env
-.env.*
 !.env.example
 
 # easy way to create temporary local-only files and folders
@@ -53,3 +51,4 @@ src/contracts/*
 
 # test coverage
 coverage/
+config.bat
